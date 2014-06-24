@@ -1,0 +1,1 @@
+<i>This result has been rated.</i>
